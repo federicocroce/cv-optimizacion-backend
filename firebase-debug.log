@@ -1,0 +1,18 @@
+[debug] [2018-08-08T12:26:34.553Z] ----------------------------------------------------------------------
+[debug] [2018-08-08T12:26:34.553Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Fede-Asus\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy --only functions:addTest
+[debug] [2018-08-08T12:26:34.553Z] CLI Version:   4.0.3
+[debug] [2018-08-08T12:26:34.553Z] Platform:      win32
+[debug] [2018-08-08T12:26:34.553Z] Node Version:  v8.11.3
+[debug] [2018-08-08T12:26:34.553Z] Time:          Wed Aug 08 2018 09:26:34 GMT-0300 (Argentina Standard Time)
+[debug] [2018-08-08T12:26:34.553Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-08-08T12:26:34.568Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-08-08T12:26:34.568Z] > authorizing via signed-in user
+[debug] [2018-08-08T12:26:34.568Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/test-pw2-ca15d  
+  
+ Wed Aug 08 2018 09:26:34 GMT-0300 (Argentina Standard Time)
+[debug] [2018-08-08T12:26:36.936Z] <<< HTTP RESPONSE 200
+[debug] [2018-08-08T12:26:36.936Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/test-pw2-ca15d/tokens  
+  
+ Wed Aug 08 2018 09:26:36 GMT-0300 (Argentina Standard Time)
+[debug] [2018-08-08T12:26:46.784Z] <<< HTTP RESPONSE 200
